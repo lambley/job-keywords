@@ -1,0 +1,6 @@
+[submodule "job-search-client"]
+	path = job-search-client
+	url = git@github.com:lambley/job-search-client.git
+[submodule "job-search-backend"]
+	path = job-search-backend
+	url = git@github.com:lambley/job-search-backend.git
