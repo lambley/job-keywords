@@ -2,7 +2,12 @@
 
 - Make sure you have docker installed - the app will run via docker-compose
 - Add a .env file in the root directory
-- Install submodules
+- Install project and submodules e.g. in folder `job-keywords`:
+```
+mkdir job-keywords
+cd job-keywords
+git clone --recurse-submodules git@github.com:lambley/job-keywords.git .
+```
 
 # Starting the app locally
 ## Starting the Client App
